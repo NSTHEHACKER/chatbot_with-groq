@@ -1,7 +1,7 @@
 import streamlit as st
 from groq import Groq
 
-client = Groq(api_key="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")
+client = Groq(api_key="your_groq_api_key_here"")
 
 conversation = [
     {
