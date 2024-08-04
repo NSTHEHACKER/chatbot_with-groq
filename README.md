@@ -30,7 +30,7 @@ This project implements a simple chat bot using Streamlit and the Groq API. The 
 ## Configuration
 
 1. **Set up your Groq API key**:
-    Replace `"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"` in the code with your actual Groq API key.
+    Replace `"your_groq_api_key_here"` in the code with your actual Groq API key.
 
 ## Usage
 
