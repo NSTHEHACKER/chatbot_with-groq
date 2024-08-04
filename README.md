@@ -8,7 +8,8 @@ This project implements a simple chat bot using Streamlit and the Groq API. The 
 - Streamlit
 - Groq API key
 
-## Before install i am select the llama3 70b model if you want change the model change it in here
+## Before install i am select the llama3 70b model if you want change the model change it in here in the code
+
 ```bash
  chat_completion = client.chat.completions.create(
         messages=conversation,
