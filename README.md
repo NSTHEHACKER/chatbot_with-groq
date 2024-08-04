@@ -12,8 +12,8 @@ This project implements a simple chat bot using Streamlit and the Groq API. The 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-repo/chat-bot.git
-    cd chat-bot
+    git clone https://github.com/NSTHEHACKER/chatbot_with-groq.git
+    cd chatbot_with-groq 
     ```
 
 2. **Create a virtual environment**:
