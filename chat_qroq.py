@@ -4,7 +4,7 @@ import json
 from groq import Groq
 
 # Securely load API key
-api_key = "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"
+api_key = "your_groq_api_key_here"
 
 client = Groq(api_key=api_key)
 
